@@ -10,6 +10,7 @@ function App() {
     <>
       <div>
       <h1>Allah Nawaz The Great !</h1>
+      <p>He has given me authority to call him as chacha Allah Nawaz</p>
 
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
